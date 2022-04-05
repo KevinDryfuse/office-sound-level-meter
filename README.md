@@ -10,7 +10,9 @@ Wall "art" that assesses noise levels in my office and provides a colorful visua
     * show adjusted min and max db levels on the display
 * 256 LED Matrix to visually display sound level
 * 4x4 membrane to:
-    * calibrate.
+    * calibrate
+    * change color scheme
+    * turn off backlight of LCD screen
     * Adjust min and max db levels on the display
 * Ability to store settings so they don't reset (EEPROM capable board)
 
