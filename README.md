@@ -35,6 +35,7 @@ Wall "art" that assesses noise levels in my office and provides a colorful visua
 * [A bunch of 22 AWG hook-up wire](https://www.amazon.com/TUOFENG-Wire-Solid-different-colored-spools/dp/B07TX6BX47/)
 
 ## ToDo
+* The code is NASTY, clean it up so it's somewhat readable.
 * Saving the color scheme would come in handy, as I prefer blue but it defaults to green.
 * Labeling the buttons would probably be nice ... I forget what each one does.
 * The LCD screen uses a ton of power.  I've configured it to be able to turn off the backlight, but there might be better options for the amount of draw it requires especially while the matrix is fully lit.
